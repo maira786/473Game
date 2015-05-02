@@ -1,0 +1,37 @@
+.center_float
+{
+	width: 500px;
+	margin: 10% auto;
+}
+.center_float .help-block
+{
+	margin: 10px 0;
+}
+#register
+{
+	display: none;
+}
+#submit_login, #submit_register
+{
+	/*margin-top:10px;*/
+}
+.alert
+{
+	display: none;
+	margin-top: 15px;
+	color:#A94442;
+}
+.has-error
+{
+	border:2px solid #A94442;
+	border-radius: 3px;
+	moz-border-radius: 3px;
+}
+.has-success
+{
+	border-color: #3C763D !important;
+}
+.close
+{
+	color:#A94442;
+}
